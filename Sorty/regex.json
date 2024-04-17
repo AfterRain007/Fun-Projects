@@ -1,0 +1,31 @@
+[
+	{"folder_name" : "Photo",
+	 "regex" : ["img_\\d{8}_\\d{6}"]},
+	 
+	{"folder_name" : "Video",
+	 "regex" : ["vid_\\d{8}_\\d{6}", "img_\\d{4}.mov"]},
+	 
+	{"folder_name" : "Whatsapp Image",
+	 "regex" : ["img-\\d{8}-wa"]},
+
+	{"folder_name" : "Whatsapp Video",
+	 "regex" : ["vid-\\d{8}-wa", "vid-\\d{8}-wa"]},
+	
+	{"folder_name" : "Photo",
+	 "regex" : ["img\\d{14}.jpg", "pxl_\\d{8}_"]},
+	 
+	{"folder_name" : "Camera Lappy",
+	 "regex" : ["win_\\d{8}(.*)pro.mp4", "win_\\d{8}(.*)pro.jpg"]},
+	 
+	{"folder_name" : "Screenshot",
+	 "regex" : ["screenshot"]},
+	 
+	{"folder_name" : "High Quality",
+	"regex" : ["\\.mov", "\\.heic", "^dsc", "^eos"]},
+	 
+	{"folder_name" : "Other Video",
+	 "regex" : ["\\.mp4", "\\.avi", "\\.mkv", "\\.3gp", "\\.m4v"]},
+	 
+	{"folder_name" : "Other Photo",
+	 "regex" : ["\\.png","\\.jpg", "\\.jpeg"]}
+]

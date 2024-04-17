@@ -1,0 +1,116 @@
+Replace this file with your own data! In the mean time, here's a dummy data so you know it's working. Happy Coding!!
+
+04/15/2022, 10:05 - John Doe: Waddup fuck face!
+04/15/2022, 10:07 - Jane Smith: Hi there!
+04/15/2022, 10:10 - John Doe: Did you see the latest movie?
+04/15/2022, 10:12 - Jane Smith: No, not yet. Is it good?
+04/15/2022, 10:15 - John Doe: Yeah, it's amazing! You should definitely watch it.
+04/15/2022, 10:18 - Jane Smith: I'll check it out this weekend.
+04/15/2022, 15:30 - Bob Johnson: <Media omitted>
+04/15/2022, 16:00 - Alice: <Media omitted>
+04/15/2022, 18:45 - Carol: <Media omitted>
+04/15/2022, 19:30 - Bob Johnson: How was your day, ass face?
+04/15/2022, 19:35 - Alice: Pretty good! How about yours?
+04/15/2022, 19:40 - Bob Johnson: Not bad, just busy with work.
+04/15/2022, 20:15 - Carol: <Media omitted>
+04/16/2022, 09:20 - John Doe: Anyone up for coffee this afternoon?
+04/16/2022, 09:25 - Jane Smith: Count me in!
+04/16/2022, 09:30 - Bob Johnson: Fuck, sorry I forgot I have a meeting today
+04/16/2022, 14:00 - Carol: <Media omitted>
+04/16/2022, 15:45 - Alice: <Media omitted>
+04/16/2022, 17:30 - John Doe: Great coffee, guys!
+04/16/2022, 17:35 - Jane Smith: We should do this more often.
+04/16/2022, 17:40 - Bob Johnson: Definitely! I'll make sure to join next time.
+04/16/2022, 17:45 - Carol: Yeah, it was lovely catching up.
+04/17/2022, 08:00 - John Doe: Morning, everyone! How's everyone feeling today?
+04/17/2022, 08:05 - Jane Smith: Good morning! Feeling refreshed after yesterday's coffee meetup.
+04/17/2022, 08:10 - Bob Johnson: Morning! Wish I could've been there. How about we plan another one soon?
+04/17/2022, 08:15 - Alice: Sounds like a plan! Let's pick a date.
+04/17/2022, 08:20 - Carol: I'm in! Just let me know when.
+04/17/2022, 12:30 - John Doe: How about next Saturday afternoon?
+04/17/2022, 12:35 - Jane Smith: Works for me!
+04/17/2022, 12:40 - Bob Johnson: Count me in this time!
+04/17/2022, 12:45 - Alice: Sounds good. Can't wait!
+04/17/2022, 12:50 - Carol: Perfect, see you all there!
+04/22/2022, 15:00 - John Doe: Hey, everyone! Just a reminder about our coffee meetup tomorrow afternoon. Same place?
+04/22/2022, 15:05 - Jane Smith: Yes, looking forward to it!
+04/22/2022, 15:10 - Bob Johnson: Wouldn't miss it!
+04/22/2022, 15:15 - Alice: Can't wait to catch up with you all!
+04/22/2022, 15:20 - Carol: See you tomorrow!
+04/23/2022, 14:00 - John Doe: I'm here, where is everyone?
+04/23/2022, 14:05 - Jane Smith: Oops, lost track of time! On my way!
+04/23/2022, 14:10 - Bob Johnson: Running a bit late, be there soon!
+04/23/2022, 14:15 - Alice: Just around the corner, almost there!
+04/23/2022, 14:20 - Carol: Sorry, got held up. On my way now!
+04/23/2022, 15:00 - John Doe: No worries, take your time!
+04/23/2022, 15:30 - Jane Smith: Finally made it! Sorry for the delay, guys.
+04/23/2022, 15:35 - Bob Johnson: Better late than never, Jane!
+04/23/2022, 15:40 - Alice: It's all good, Jane. Glad you could join us.
+04/23/2022, 15:45 - Carol: Welcome, Jane! Let's grab some coffee and catch up.
+04/23/2022, 16:30 - John Doe: So, what's everyone been up to this week?
+04/23/2022, 16:35 - Jane Smith: Just work and more work, you know how it goes.
+04/23/2022, 16:40 - Bob Johnson: Same here, Jane. Busy week at the office.
+04/23/2022, 16:45 - Alice: I've been working on a new project. It's been keeping me occupied.
+04/23/2022, 16:50 - Carol: I've been trying out some new recipes. Cooking is my stress reliever.
+04/23/2022, 17:00 - John Doe: That all sounds interesting! We should definitely share more about our hobbies and interests.
+04/23/2022, 17:05 - Jane Smith: I agree, it's nice to know what everyone's passionate about outside of work.
+04/23/2022, 17:10 - Bob Johnson: Absolutely! It's important to have those outlets.
+04/23/2022, 17:15 - Alice: Definitely. It brings balance to our lives.
+04/23/2022, 17:20 - Carol: Plus, we can always swap tips and recommendations.
+04/23/2022, 17:30 - John Doe: Looks like we've found a new topic for our next coffee meetup: hobbies and interests!
+04/23/2022, 17:35 - Jane Smith: I'm already looking forward to it!
+04/23/2022, 17:40 - Bob Johnson: Count me in! Can't wait to learn more about what you all enjoy doing.
+04/23/2022, 17:45 - Alice: It's a date then! Our next meetup is going to be even more exciting.
+04/23/2022, 17:50 - Carol: Agreed! These meetups just keep getting better and better.
+04/25/2022, 10:00 - John Doe: Good morning, everyone! How's your Monday going so far?
+04/25/2022, 10:15 - Jane Smith: Hey, John! Not bad, just getting started with work.
+04/25/2022, 11:30 - Bob Johnson: Morning, folks! Sorry for the late reply, had a hectic morning.
+04/25/2022, 11:45 - Alice: No worries, Bob! Mondays can be crazy sometimes.
+04/25/2022, 12:00 - Carol: Just finished a meeting, but I'm here now. Morning, everyone!
+04/25/2022, 12:15 - John Doe: Glad to see everyone here! How about we plan something fun for the upcoming weekend?
+04/25/2022, 12:30 - Jane Smith: That sounds like a great idea! Any suggestions?
+04/25/2022, 13:00 - Bob Johnson: How about a picnic in the park? The weather's been nice lately.
+04/25/2022, 13:15 - Alice: I'm up for that! We can bring some snacks and games.
+04/25/2022, 13:30 - Carol: Count me in! A picnic sounds delightful.
+04/25/2022, 14:00 - John Doe: Perfect! Let's make it happen. How about Saturday afternoon?
+04/25/2022, 14:15 - Jane Smith: Works for me!
+04/25/2022, 14:30 - Bob Johnson: Sounds good to me too.
+04/25/2022, 15:00 - Alice: Saturday it is then!
+04/25/2022, 15:15 - Carol: Can't wait! It'll be a nice break from the usual routine.
+04/28/2022, 17:00 - John Doe: Hey, everyone! Just a reminder about our picnic this Saturday. Don't forget to bring your favorite snacks!
+04/28/2022, 17:15 - Jane Smith: Thanks for the reminder, John! I'm already planning what to bring.
+04/28/2022, 17:30 - Bob Johnson: Excited for it! I'll make sure to bring some drinks.
+04/28/2022, 17:45 - Alice: Can't wait to enjoy the outdoors with you all! I'll bring some sandwiches.
+04/28/2022, 18:00 - Carol: Sounds like it's going to be a feast! I'll bring some fruits and desserts.
+04/30/2022, 12:00 - John Doe: It's picnic day, everyone! See you all at the park in an hour.
+05/01/2022, 10:00 - John Doe: Good morning, everyone! Happy May Day! Are we all set for our picnic today?
+05/01/2022, 10:15 - Jane Smith: Good morning, John! Absolutely, I've got my picnic blanket ready to go.
+05/01/2022, 10:30 - Bob Johnson: Morning, folks! Can't wait to enjoy some fresh air and good company.
+05/01/2022, 10:45 - Alice: Morning, everyone! I'm excited for our picnic. The weather looks perfect today.
+05/01/2022, 11:00 - Carol: Happy May Day, everyone! I've packed some delicious treats for us to enjoy.
+05/01/2022, 11:15 - John Doe: Sounds fantastic! Let's meet at the park at noon. Don't forget sunscreen and your favorite outdoor games.
+05/01/2022, 11:30 - Jane Smith: Got it, John! I'll bring a Frisbee and maybe a deck of cards.
+05/01/2022, 11:45 - Bob Johnson: I'll bring a football and some snacks to keep us energized.
+05/01/2022, 12:00 - Alice: I'll bring a volleyball and some cold drinks to keep us hydrated.
+05/01/2022, 12:15 - Carol: I'll bring a blanket and some cups for the drinks. Can't wait to relax in the sunshine!
+05/01/2022, 12:30 - John Doe: It's going to be a perfect day for a picnic. See you all soon!
+05/01/2022, 13:00 - John Doe: Hey, everyone! Glad you could make it. Let's find a good spot to set up.
+05/01/2022, 13:15 - Jane Smith: This spot under the tree looks perfect. Plenty of shade.
+05/01/2022, 13:30 - Bob Johnson: Agreed! Let's lay out the blanket and start unpacking.
+05/01/2022, 13:45 - Alice: Wow, everything looks so delicious! Thanks for bringing all this, Carol.
+05/01/2022, 14:00 - Carol: My pleasure, Alice! Let's dig in and enjoy the food.
+05/01/2022, 14:15 - Bob Johnson: This potato salad is amazing, Carol! Did you make it yourself?
+05/01/2022, 14:20 - Carol: Yes, I did! It's a family recipe. Glad you like it, Bob.
+05/01/2022, 14:25 - Alice: I have to agree, it's delicious! Carol, you'll have to share the recipe with us sometime.
+05/01/2022, 14:30 - Carol: Of course, Alice! I'd be happy to share it. It's simple but always a hit at gatherings.
+05/01/2022, 14:35 - John Doe: I think I need a break from eating. Anyone up for a game of volleyball?
+05/01/2022, 14:40 - Jane Smith: Count me in! I love volleyball.
+05/01/2022, 14:45 - Bob Johnson: Sounds good to me! Let's burn off some of these calories.
+05/01/2022, 14:50 - Alice: I'll join too! I haven't played in ages, but it sounds like fun.
+05/01/2022, 14:55 - Carol: I'll cheer you all on from the sidelines. Volleyball was never my forte.
+05/01/2022, 16:00 - Jane Smith: Whew, that was intense! Great game, everyone.
+05/01/2022, 16:05 - Bob Johnson: Definitely! It's been ages since I played like that. Thanks for the workout, guys.
+05/01/2022, 16:10 - Alice: Agreed, that was a blast! We should definitely do this again sometime.
+05/01/2022, 16:15 - Carol: You all played so well! It was fun to watch.
+05/01/2022, 16:20 - John Doe: Thanks, Carol! But next time, you're joining in on the game.
+05/01/2022, 16:25 - Carol: We'll see about that! Maybe I'll practice a bit beforehand.
